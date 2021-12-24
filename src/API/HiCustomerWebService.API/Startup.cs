@@ -33,19 +33,29 @@ namespace HiCustomerWebService.API
                 c.EnableAnnotations();
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Müşteri Portalı Web Servisi", Version = "v1" });
             });
+
+            services.AddCors(options =>
+            {
+                options.AddPolicy("Open", builder => builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod());
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            if (env.IsDevelopment())
+            // if (env.IsDevelopment())
             {
+
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Müşteri Portalı Web Servisi v1"));
+                app.UseSwaggerUI(c =>
+                {
+                    string virDir = Configuration.GetSection("VirtualDirectory").Value;
+                    c.SwaggerEndpoint(virDir + "/swagger/v1/swagger.json", "Müşteri Portalı Web Servisi v1");
+                    //c.RoutePrefix = "swagger";
+                }
+                );
             }
-
-            app.UseHttpsRedirection();
 
             app.UseRouting();
 

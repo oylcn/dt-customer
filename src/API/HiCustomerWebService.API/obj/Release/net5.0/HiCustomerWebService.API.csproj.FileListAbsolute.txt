@@ -30,3 +30,4 @@ C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\obj\Release
 C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\obj\Release\net5.0\ref\HiCustomerWebService.API.dll
 C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\obj\Release\net5.0\HiCustomerWebService.API.pdb
 C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\obj\Release\net5.0\HiCustomerWebService.API.genruntimeconfig.cache
+C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\bin\Release\net5.0\web.config

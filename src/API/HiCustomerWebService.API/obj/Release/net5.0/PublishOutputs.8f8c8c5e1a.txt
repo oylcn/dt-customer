@@ -1,4 +1,5 @@
 C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\obj\Release\net5.0\PubTmp\Out\HiCustomerWebService.API.exe
+C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\obj\Release\net5.0\PubTmp\Out\web.config
 C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
 C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\obj\Release\net5.0\PubTmp\Out\appsettings.json
 C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\obj\Release\net5.0\PubTmp\Out\HiCustomerWebService.API.dll

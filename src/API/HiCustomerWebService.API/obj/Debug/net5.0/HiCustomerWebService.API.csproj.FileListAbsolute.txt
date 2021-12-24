@@ -29,3 +29,5 @@ C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\obj\Debug\n
 C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\obj\Debug\net5.0\HiCustomerWebService.API.pdb
 C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\obj\Debug\net5.0\HiCustomerWebService.API.genruntimeconfig.cache
 C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\obj\Debug\net5.0\HiCustomerWebService.API.csproj.CopyComplete
+C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\bin\Debug\net5.0\web.config
