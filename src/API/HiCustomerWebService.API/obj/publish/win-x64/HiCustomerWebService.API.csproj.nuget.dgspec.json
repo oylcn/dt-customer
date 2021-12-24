@@ -1,0 +1,153 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ME\\Projects\\HiCustomerWebService\\src\\API\\HiCustomerWebService.API\\HiCustomerWebService.API.csproj": {}
+  },
+  "projects": {
+    "C:\\ME\\Projects\\HiCustomerWebService\\src\\API\\HiCustomerWebService.API\\HiCustomerWebService.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ME\\Projects\\HiCustomerWebService\\src\\API\\HiCustomerWebService.API\\HiCustomerWebService.API.csproj",
+        "projectName": "HiCustomerWebService.API",
+        "projectPath": "C:\\ME\\Projects\\HiCustomerWebService\\src\\API\\HiCustomerWebService.API\\HiCustomerWebService.API.csproj",
+        "packagesPath": "C:\\Users\\omery\\.nuget\\packages\\",
+        "outputPath": "C:\\ME\\Projects\\HiCustomerWebService\\src\\API\\HiCustomerWebService.API\\obj\\publish\\win-x64\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\omery\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Projects\\OwnNuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\ME\\Projects\\HiCustomerWebService\\src\\Core\\HiCustomerWebService.Application\\HiCustomerWebService.Application.csproj": {
+                "projectPath": "C:\\ME\\Projects\\HiCustomerWebService\\src\\Core\\HiCustomerWebService.Application\\HiCustomerWebService.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\ME\\Projects\\HiCustomerWebService\\src\\Core\\HiCustomerWebService.Application\\HiCustomerWebService.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ME\\Projects\\HiCustomerWebService\\src\\Core\\HiCustomerWebService.Application\\HiCustomerWebService.Application.csproj",
+        "projectName": "HiCustomerWebService.Application",
+        "projectPath": "C:\\ME\\Projects\\HiCustomerWebService\\src\\Core\\HiCustomerWebService.Application\\HiCustomerWebService.Application.csproj",
+        "packagesPath": "C:\\Users\\omery\\.nuget\\packages\\",
+        "outputPath": "C:\\ME\\Projects\\HiCustomerWebService\\src\\Core\\HiCustomerWebService.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\omery\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Projects\\OwnNuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\ME\Projects\HiCustomerWebService\src\Core\HiCustomerWebService.Application\bin\Debug\net5.0\HiCustomerWebService.Application.deps.json
+C:\ME\Projects\HiCustomerWebService\src\Core\HiCustomerWebService.Application\bin\Debug\net5.0\HiCustomerWebService.Application.dll
+C:\ME\Projects\HiCustomerWebService\src\Core\HiCustomerWebService.Application\bin\Debug\net5.0\ref\HiCustomerWebService.Application.dll
+C:\ME\Projects\HiCustomerWebService\src\Core\HiCustomerWebService.Application\bin\Debug\net5.0\HiCustomerWebService.Application.pdb
+C:\ME\Projects\HiCustomerWebService\src\Core\HiCustomerWebService.Application\obj\Debug\net5.0\HiCustomerWebService.Application.csproj.AssemblyReference.cache
+C:\ME\Projects\HiCustomerWebService\src\Core\HiCustomerWebService.Application\obj\Debug\net5.0\HiCustomerWebService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ME\Projects\HiCustomerWebService\src\Core\HiCustomerWebService.Application\obj\Debug\net5.0\HiCustomerWebService.Application.AssemblyInfoInputs.cache
+C:\ME\Projects\HiCustomerWebService\src\Core\HiCustomerWebService.Application\obj\Debug\net5.0\HiCustomerWebService.Application.AssemblyInfo.cs
+C:\ME\Projects\HiCustomerWebService\src\Core\HiCustomerWebService.Application\obj\Debug\net5.0\HiCustomerWebService.Application.csproj.CoreCompileInputs.cache
+C:\ME\Projects\HiCustomerWebService\src\Core\HiCustomerWebService.Application\obj\Debug\net5.0\HiCustomerWebService.Application.dll
+C:\ME\Projects\HiCustomerWebService\src\Core\HiCustomerWebService.Application\obj\Debug\net5.0\ref\HiCustomerWebService.Application.dll
+C:\ME\Projects\HiCustomerWebService\src\Core\HiCustomerWebService.Application\obj\Debug\net5.0\HiCustomerWebService.Application.pdb

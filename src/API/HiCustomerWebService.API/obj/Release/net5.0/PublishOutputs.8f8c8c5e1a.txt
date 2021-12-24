@@ -1,0 +1,14 @@
+C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\obj\Release\net5.0\PubTmp\Out\HiCustomerWebService.API.exe
+C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\obj\Release\net5.0\PubTmp\Out\HiCustomerWebService.API.dll
+C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\obj\Release\net5.0\PubTmp\Out\HiCustomerWebService.API.deps.json
+C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\obj\Release\net5.0\PubTmp\Out\HiCustomerWebService.API.runtimeconfig.json
+C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\obj\Release\net5.0\PubTmp\Out\HiCustomerWebService.API.pdb
+C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Annotations.dll
+C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\obj\Release\net5.0\PubTmp\Out\HiCustomerWebService.Application.dll
+C:\ME\Projects\HiCustomerWebService\src\API\HiCustomerWebService.API\obj\Release\net5.0\PubTmp\Out\HiCustomerWebService.Application.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HiCustomerWebService.Application/1.0.0": {
+        "runtime": {
+          "HiCustomerWebService.Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HiCustomerWebService.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

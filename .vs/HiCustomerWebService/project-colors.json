@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1fe4ca0e-8cf4-44b1-8fd4-2e5d1afc3e71": {
+      "ProjectGuid": "1fe4ca0e-8cf4-44b1-8fd4-2e5d1afc3e71",
+      "DisplayName": "HiCustomerWebService.Application",
+      "ColorIndex": 0
+    },
+    "864a4c96-98d6-4809-909d-b4731949ab35": {
+      "ProjectGuid": "864a4c96-98d6-4809-909d-b4731949ab35",
+      "DisplayName": "HiCustomerWebService.API",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
